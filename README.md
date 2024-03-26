@@ -33,3 +33,8 @@ To use this bot effectively, ensure the following:
 
 ### Contribution
 Contributions are welcome! If you'd like to improve the bot or add new features, please fork the repository and submit a pull request.
+
+### Examples
+Daily Report
+<img width="207" alt="Screenshot_10" src="https://github.com/Bamboo92/Owl/assets/75183449/3d440cee-f922-4b29-96ac-d53392c22d2f">
+<img width="263" alt="Screenshot_11" src="https://github.com/Bamboo92/Owl/assets/75183449/345c5095-a660-4192-9241-324cfd2733d3">
