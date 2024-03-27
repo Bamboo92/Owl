@@ -35,6 +35,21 @@ To use this bot effectively, ensure the following:
 Contributions are welcome! If you'd like to improve the bot or add new features, please fork the repository and submit a pull request.
 
 ### Examples
-Daily Report
-<img width="207" alt="Screenshot_10" src="https://github.com/Bamboo92/Owl/assets/75183449/3d440cee-f922-4b29-96ac-d53392c22d2f">
+Messages <br/>
+<img width="318" alt="Screenshot_4" src="https://github.com/Bamboo92/Owl/assets/75183449/5188c364-3d07-4bb5-927e-b43ba2ae959d">
+
+Command <br/>
+<img width="265" alt="Screenshot_8" src="https://github.com/Bamboo92/Owl/assets/75183449/bed4f4d9-d5f2-4611-b06a-6616a7c849d6">
+<img width="265" alt="Screenshot_7" src="https://github.com/Bamboo92/Owl/assets/75183449/0d62d904-7a3f-4106-915c-6a546e78341e">
+<img width="268" alt="Screenshot_5" src="https://github.com/Bamboo92/Owl/assets/75183449/1f2492fe-9fca-4ca2-ba9c-ed0940cd3977">
+
+
+Daily Report <br/>
 <img width="263" alt="Screenshot_11" src="https://github.com/Bamboo92/Owl/assets/75183449/345c5095-a660-4192-9241-324cfd2733d3">
+<img width="207" alt="Screenshot_10" src="https://github.com/Bamboo92/Owl/assets/75183449/3d440cee-f922-4b29-96ac-d53392c22d2f">
+
+Log <br/>
+<img width="514" alt="Screenshot_6" src="https://github.com/Bamboo92/Owl/assets/75183449/6b2ca25f-b795-45d5-ab0e-f4e37ceae167">
+
+Sheet <br/>
+<img width="514" alt="Screenshot_6" src="https://github.com/Bamboo92/Owl/assets/75183449/071db82e-0e0b-4681-901e-8602bda77ee5">
