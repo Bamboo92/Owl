@@ -49,7 +49,8 @@ Daily Report <br/>
 <img width="207" alt="Screenshot_10" src="https://github.com/Bamboo92/Owl/assets/75183449/3d440cee-f922-4b29-96ac-d53392c22d2f">
 
 Log <br/>
-<img width="514" alt="Screenshot_6" src="https://github.com/Bamboo92/Owl/assets/75183449/6b2ca25f-b795-45d5-ab0e-f4e37ceae167">
+![Screenshot_9](https://github.com/Bamboo92/Owl/assets/75183449/2d78d749-effa-4e2e-b341-2189f75a827a)
 
 Sheet <br/>
 <img width="514" alt="Screenshot_6" src="https://github.com/Bamboo92/Owl/assets/75183449/071db82e-0e0b-4681-901e-8602bda77ee5">
+
